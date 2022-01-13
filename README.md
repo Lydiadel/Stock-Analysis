@@ -42,7 +42,7 @@ A well performance in how long it takes the code to run can be due the number of
 Refactor code could bring some problems, since you can miss out important information trying to simplify the code. Is important to keep in mind that the point of refactoring is improve the performance by keeping useful information not just deleting lines.
 
 ### Refactoring the original code and refactored VBA script
-#### Advantages
+#### Advantages
 In this case, refactoring the code is organized in lists and there is no need to use another for loop for the volume since in one we can keep all our information about the volume and return, also it simplifies the time performance making the program rust faster and is cleaner.
 
 #### Disadvantages
