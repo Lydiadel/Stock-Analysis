@@ -19,6 +19,8 @@ Work with an entire dataset to get to know the stock market over the last few ye
 #### Original Code
 <img width="300" alt="Original_Code" src="https://user-images.githubusercontent.com/71950779/149398411-e8fa827c-d435-4a5b-b5f2-55f62cc0e004.png">
 <img width="404" alt="Original_Code_Pt2" src="https://user-images.githubusercontent.com/71950779/149398420-10e98417-c6df-477a-9ce2-1195a383832a.png">
+<img width="314" alt="VBA_First_Time_2017" src="https://user-images.githubusercontent.com/71950779/149404527-7f8b3df6-634e-42ab-9af3-727fa229dce9.png"><img width="319" alt="VBA_First_Time_2018" src="https://user-images.githubusercontent.com/71950779/149404567-328c4206-e3d4-4fcf-8d62-fd0a9c18d2e6.png">
+
 
 #### Code Refactored
 <img width="541" alt="Refactored_Code" src="https://user-images.githubusercontent.com/71950779/149398428-95c018aa-6663-4a40-bfd0-eede8f89cad7.png">
@@ -40,7 +42,6 @@ A well performance in how long it takes the code to run can be due the number of
 Refactor code could bring some problems, since you can miss out important information trying to simplify the code. Is important to keep in mind that the point of refactoring is improve the performance by keeping useful information not just deleting lines.
 
 ### Refactoring the original code and refactored VBA script
-
 #### Advantages
 In this case, refactoring the code is organized in lists and there is no need to use another for loop for the volume since in one we can keep all our information about the volume and return, also it simplifies the time performance making the program rust faster and is cleaner.
 
