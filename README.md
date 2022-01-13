@@ -1,6 +1,6 @@
 # Stock Analysis
 
-## Author
+## Author
 Lydia Delgado Uriarte
 
 ## Overview of project
@@ -8,7 +8,7 @@ Lydia Delgado Uriarte
 ### Purpose
 Work with an entire dataset to get to know the stock market over the last few years, using VBA Excel to elaborate a script to manage this dataset making the code efficient and help us with a deep analysis. 
 
-## Results 
+## Results 
 ### All Stocks 2017
 <img width="388" alt="All_Stocks_2017" src="https://user-images.githubusercontent.com/71950779/149392078-f8a6ab04-2a9d-427a-81ef-aa050a8b1f89.png">
 
