@@ -43,7 +43,7 @@ Refactor code could bring some problems, since you can miss out important inform
 
 ### Refactoring the original code and refactored VBA script
 #### Advantages
-In this case, refactoring the code is organized in lists and there is no need to use another for loop for the volume since in one we can keep all our information about the volume and return, also it simplifies the time performance making the program rust faster and is cleaner.
+In this case, refactoring the code is organized in lists and there is no need to use another for loop for the volume since in one we can keep all our information about the volume and return, also it simplifies the time performance making the program run faster and is cleaner.
 
 #### Disadvantages
-Refactoring this code was confusing at the time of creating new arrays to store the information, considering this information was not stored by ticker, but also that when testing this it could bring some errors and it did not work at the first try.
+Refactoring this code was confusing at the time of creating new arrays to store the information, considering this information was not stored by ticker, but also that when we are testing this it could bring some errors and it did not work at the first try.
